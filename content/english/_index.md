@@ -2,7 +2,7 @@
 # Banner
 banner: 
   title: "Your Favorite Physics Resource"
-  content: "Physics Lair is an Ap Physics 1 resource targeted for Sunny Hills Physics. It includes summaries, problem sets, and answer keys for each chapter of the Sunny Hills Physics 1 curriculum. We're here to help you ace those tests!"
+  content: "Physics Lair is an AP Physics 1 resource targeted for Sunny Hills Physics. It includes summaries, problem sets, and answer keys for each chapter of the Sunny Hills Physics 1 curriculum. We're here to help you ace those tests!"
   image: "/images/banner.png"
   button:
     enable: true

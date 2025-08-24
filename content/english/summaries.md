@@ -4,7 +4,7 @@ date: 2025-06-25T23:38:20-07:00
 draft: false
 ---
 
-| Chapter       |      Problem Set    | 
+| Chapter       |      Summary    | 
 | ------------- | :-----------: |
 |1              | [The Nature of Science and Physics](/summaries/sum1.pdf)|
 |2              | [Kinematics](/summaries/sum2.pdf) | 
