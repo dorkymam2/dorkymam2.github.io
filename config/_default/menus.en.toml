@@ -21,23 +21,19 @@ name = "Problem Sets"
 url = "/problemsets"
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Updates"
+url = "/updates"
 weight = 3
 
 [[main]]
-name = "Contact"
-url = "/contact"
+name = "About"
+url = "/about"
 weight = 4
 
 # footer menu
 [[footer]]
 name = "About Me"
-url = "/aboutme"
+url = "/about"
 weight = 1
 
-[[footer]]
-name = "Contact"
-url = "/contact"
-weight = 2
 

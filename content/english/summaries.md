@@ -6,9 +6,9 @@ draft: false
 
 | Chapter       |      Problem Set    | 
 | ------------- | :-----------: |
-|1              | [The Nature of Science and Physics](/summaries/sum1.pdf) |
+|1              | [The Nature of Science and Physics](/summaries/sum1.pdf)|
 |2              | [Kinematics](/summaries/sum2.pdf) | 
-|3              | [Two-Dimensional Kinematics](/summaries/sum3.pdf) |
+|3              | [Two-Dimensional Kinematics](/summaries/sum3.pdf)|
 |4              | [Dynamics: Force and Newton's Laws of Motion](/summaries/sum4.pdf) |
 |5              | [Further Applications of Newton's Laws: Friction, Drag, and Elasticity](/summaries/sum5.pdf) |
 |6              | [Uniform Circular Motion and Gravitation](/summaries/sum6.pdf) |
@@ -18,6 +18,7 @@ draft: false
 |10              | [Rotational Motion and Angular Momentum](/summaries/sum10.pdf) |
 |11              | [Fluid Statics](/summaries/sum11.pdf) |
 |12              | [Fluid Dynamics and Its Biological and Medical Applications](/summaries/sum12.pdf) |
+
 
 
 
