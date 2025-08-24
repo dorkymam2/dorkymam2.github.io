@@ -1,0 +1,46 @@
+---
+title: "Updates"
+date: 2025-08-23T22:52:59-07:00
+draft: false
+---
+
+<h1 align="center">Stay updated on new uploads!</h1>
+
+{{< tabs >}}
+{{< tab "General" >}}
+
+#### Physics Lair Updates
+
+{{< accordion "8/23/25 - Check it out!"  >}}
+
+- Welcome to the infancy stage! Take a minute or two to look around. 
+
+{{< /accordion >}}
+
+{{< /tab >}}
+
+{{< tab "Summaries" >}}
+
+#### Summary Uploads 
+
+{{< accordion "8/23/25 - Chapter 1 Summary"  >}}
+
+- The summary is brief but so is the chapter
+- Just a small review of basic physical principles and ideas 
+
+{{< /accordion >}}
+
+{{< /tab >}}
+
+{{< tab "Problem Sets" >}}
+
+#### Problem Set Uploads
+
+{{< accordion "8/23/25 - Chapter 1 Problem Sets"  >}}
+
+- Just a couple problems 
+
+{{< /accordion >}}
+
+{{< /tab >}}
+{{< /tabs >}}
