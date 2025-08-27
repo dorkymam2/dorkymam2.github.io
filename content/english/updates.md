@@ -23,12 +23,19 @@ draft: false
 
 #### Summary Uploads 
 
+{{< accordion "8/26/25 - Chapter 2 Summary"  >}}
+
+- Uploaded chapter 2 summary for 1-D kinematics; it covers everything but graphs 
+- Let me know if you have any suggestions 
+
+{{< /accordion >}}
+
 {{< accordion "8/23/25 - Chapter 1 Summary"  >}}
 
 - The summary is brief but so is the chapter
 - Just a small review of basic physical principles and ideas 
 
-{{< /accordion >}}
+{{< /accordion >}}\
 
 {{< /tab >}}
 
