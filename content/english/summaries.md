@@ -7,7 +7,7 @@ draft: false
 | Chapter       |      Summary    | 
 | ------------- | :-----------: |
 |1              | [The Nature of Science and Physics](/summaries/sum1.pdf)|
-|2              | Kinematics | 
+|2              | [Kinematics](/summaries/sum2.pdf) | 
 |3              | Two-Dimensional Kinematics|
 |4              | Dynamics: Force and Newton's Laws of Motion |
 |5              | Further Applications of Newton's Laws: Friction, Drag, and Elasticity |
