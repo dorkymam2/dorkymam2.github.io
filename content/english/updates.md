@@ -43,6 +43,12 @@ draft: false
 
 #### Problem Set Uploads
 
+{{< accordion "9/8/25 - Chapter 2 Problem Sets"  >}}
+
+- I divided the problem set into two sections of moderate and hard difficulty; some of the hard problems are pretty challenging 
+
+{{< /accordion >}}
+
 {{< accordion "8/23/25 - Chapter 1 Problem Sets"  >}}
 
 - Just a couple problems 

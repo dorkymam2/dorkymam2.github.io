@@ -9,7 +9,7 @@ draft: false
 | ------------- | :-----------: | ----: |
 | 1             | [The Nature of Science and Physics](/problemsets/set1.pdf)|[Answer Key 1](/keys/key1.pdf)|
 | 2             | [Kinematics](/problemsets/set2.pdf) | [Answer Key 2](/keys/key2.pdf) |
-| 3 | Two-Dimensional Kinematics |Answer Key 3|
+| 3 | [Two-Dimensional Kinematics](/problemsets/set3.pdf)|[Answer Key 3](/keys/key3.pdf)|
 |4 | Dynamics: Force and Newton's Laws of Motion| Answer Key 4|
 |5 | Further Applications of Newton's Laws: Friction, Drag, and Elasticity| Answer Key 5| 
 |6 | Uniform Circular Motion and Gravitation | Answer Key 6|
