@@ -13,7 +13,7 @@ draft: false
 |4 | Dynamics: Force and Newton's Laws of Motion| Answer Key 4|
 |5 | Further Applications of Newton's Laws: Friction, Drag, and Elasticity| Answer Key 5| 
 |6 | Uniform Circular Motion and Gravitation | Answer Key 6|
-|7| Work, Energy, and Energy Resources| Answer Key 7|
+|7| [Work, Energy, and Energy Resources](/problemsets/set7.pdf)| [Answer Key 7](/keys/key7.pdf)|
 |8| Linear Momentum and Collisions | Answer Key 8|
 |9| Statics and Torque| Answer Key 9|
 |10| Rotational Motion and Angular Momentum |Answer Key 10|

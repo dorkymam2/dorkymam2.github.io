@@ -42,6 +42,11 @@ draft: false
 {{< tab "Problem Sets" >}}
 
 #### Problem Set Uploads
+{{< accordion "12/15/25 - Chapter 7 Problem Sets"  >}}
+
+- Just for my bestest friend Soojin Cho
+
+{{< /accordion >}}
 
 {{< accordion "9/8/25 - Chapter 2 Problem Sets"  >}}
 
