@@ -17,6 +17,6 @@ draft: false
 |8| Linear Momentum and Collisions | Answer Key 8|
 |9| Statics and Torque| Answer Key 9|
 |10| Rotational Motion and Angular Momentum |Answer Key 10|
-|11| Fluid Statics | Answer Key 11|
-|12| Fluid Dynamics and Its Biological and Medical Applications | Answer Key 12|
+|11| [Oscillations](/problemsets/set11.pdf)|[Answer Key 11](/keys/key11.pdf)|
+|12| Fluid Statics, Dynamics, and Its Biological and Medical Applications | Answer Key 12|
 

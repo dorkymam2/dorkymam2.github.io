@@ -42,6 +42,12 @@ draft: false
 {{< tab "Problem Sets" >}}
 
 #### Problem Set Uploads
+{{< accordion "3/1/26 - Chapter 11 Problem Sets"  >}}
+
+- New Oscillation problem set uploaded
+
+{{< /accordion >}}
+
 {{< accordion "12/15/25 - Chapter 7 Problem Sets"  >}}
 
 - Just for my bestest friend Soojin Cho
