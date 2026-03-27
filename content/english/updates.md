@@ -42,6 +42,12 @@ draft: false
 {{< tab "Problem Sets" >}}
 
 #### Problem Set Uploads
+{{< accordion "3/26/26 - Chapter 12 Problem Sets"  >}}
+
+- New Fluids problem set uploaded
+
+{{< /accordion >}}
+
 {{< accordion "3/1/26 - Chapter 11 Problem Sets"  >}}
 
 - New Oscillation problem set uploaded
