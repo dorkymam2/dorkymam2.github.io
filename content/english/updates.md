@@ -42,6 +42,12 @@ draft: false
 {{< tab "Problem Sets" >}}
 
 #### Problem Set Uploads
+{{< accordion "4/2/26 - Chapter 12 Problem Sets"  >}}
+
+- All problem sets uploaded just before AP season!
+
+{{< /accordion >}}
+
 {{< accordion "3/26/26 - Chapter 12 Problem Sets"  >}}
 
 - New Fluids problem set uploaded
