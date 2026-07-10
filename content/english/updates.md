@@ -10,6 +10,11 @@ draft: false
 {{< tab "General" >}}
 
 #### Physics Lair Updates
+{{< accordion "7/10/26 - Discussion board!"  >}}
+
+- New "discussion board" through giscus 
+
+{{< /accordion >}}
 
 {{< accordion "8/23/25 - Check it out!"  >}}
 

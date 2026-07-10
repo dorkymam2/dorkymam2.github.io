@@ -59,6 +59,12 @@ enable = false
 expire_days = 7
 content = "You must replace the **baseURL** in **hugo.toml** file when deploying, you can manage this announcement from the **params.toml** file."
 
+[giscus]
+  repo = "dorkymam2/physics-lair"
+  repoId = "R_kgDOPfsXsg"
+  category = "Page Comments"
+  categoryId = "DIC_kwDOPfsXss4DAtOo"
+  
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]

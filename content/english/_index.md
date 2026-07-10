@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Start Reviewing"
-    link: "/blog"
+    link: "/summaries"
 
 # Features
 features: 
