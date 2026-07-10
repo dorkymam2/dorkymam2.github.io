@@ -12,6 +12,11 @@ If you are stuck on a problem set or need a concept explained, drop a comment be
 
 ### 📝 Formatting Guide
 
+### **Writing Headings**
+* **Large Heading:** `# Heading`
+* **Medium Heading:** `## Heading`
+* **Small Heading:** `### Heading`
+
 #### **Typing Math with LaTeX**
 Wrap your equations in single dollar signs (`$`) to keep them in line with your text, or double dollar signs (`$$`) to center them on a new line. 
 
